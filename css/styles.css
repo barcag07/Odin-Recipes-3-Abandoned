@@ -3,6 +3,30 @@
     src: url(../one-piece-font.ttf)
 }
 
+.sanji {
+    height: auto;
+    width: 1200px;
+}
+
 h1 {
-    font-family: one-piece
+    font-family: one-piece;
+    font-size: 100px;
+    text-align: center
+}
+
+/* Don't forget that you have to link the .css page to each recipe page's head element */
+
+.baked-ziti {
+    height: auto;
+    width: auto;
+}
+
+.pizza {
+    height: auto;
+    width: 700px;
+}
+
+.bell-pepper {
+    height: auto;
+    width: auto;
 }
